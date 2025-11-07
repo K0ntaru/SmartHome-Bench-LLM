@@ -11,3 +11,4 @@ anthropic
 python-dotenv
 moviepy==1.0.3
 scikit-learn>=1.0
+yt-dlp
