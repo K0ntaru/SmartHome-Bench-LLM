@@ -117,20 +117,38 @@ pip install -r requirements.txt
 ```
 
 ### Download Videos
-1. The video URLs are provided in an Excel file [Video_url.csv](https://github.com/Xinyi-0724/SmartHome-Bench-LLM/tree/main/Videos/Video_url.csv) of this GitHub repository.
+1. The video URLs are provided in a CSV file [Video_url.csv](https://github.com/Xinyi-0724/SmartHome-Bench-LLM/tree/main/Videos/Video_url.csv) of this GitHub repository.
    - The first **1,023 videos** can be downloaded from YouTube using the provided URLs.
    - The remaining **180 videos**, contributed by our staff, are private and cannot be downloaded.
 
-2. After downloading the videos, make sure each video file is named exactly as listed in the "Title" column of [Video_url.csv](https://github.com/Xinyi-0724/SmartHome-Bench-LLM/tree/main/Videos/Video_url.csv), and place them in the following folder: SmartHome-Bench-LLM/Videos/Trim_Videos/raw_video.
+2. **Automated Download (Recommended):**
+   You can use the provided `download_videos.py` script to automatically download videos:
+   ```bash
+   python download_videos.py
+   ```
+   The script will:
+   - Automatically download videos from YouTube URLs in `Videos/Video_url.csv`
+   - Skip privacy-protected videos automatically
+   - Support concurrent downloads for faster processing (configurable with `--max-workers`)
+   - Save videos to `Videos/Trim_Videos/raw_video/` with correct filenames
+   - Show detailed progress and error handling
+   
+   For more options:
+   ```bash
+   python download_videos.py --help
+   ```
 
-3. To extract the specific video clips used in our paper, run the trimming script:
+3. **Manual Download:**
+   If you prefer to download videos manually, make sure each video file is named exactly as listed in the "Title" column of [Video_url.csv](https://github.com/Xinyi-0724/SmartHome-Bench-LLM/tree/main/Videos/Video_url.csv), and place them in the following folder: `SmartHome-Bench-LLM/Videos/Trim_Videos/raw_video`.
+
+4. To extract the specific video clips used in our paper, run the trimming script:
 ```bash
 cd SmartHome-Bench-LLM/Videos/Trim_Videos
 python Video_trim.py
 ```
 This will generate the trimmed video clips and save them to: SmartHome-Bench-LLM/Code/downloads/.
 
-4. The complete video annotation details for all 1,203 videos can be found in [Video_Annotation.csv](https://github.com/Xinyi-0724/SmartHome-Bench-LLM/blob/main/Videos/Video_Annotation.csv).
+5. The complete video annotation details for all 1,203 videos can be found in [Video_Annotation.csv](https://github.com/Xinyi-0724/SmartHome-Bench-LLM/blob/main/Videos/Video_Annotation.csv).
 
 ### Set Up API Keys
 Before running the models, you need to configure the necessary API keys by setting up the environment variables listed in the [.env.template](https://github.com/Xinyi-0724/SmartHome-Bench-LLM/blob/main/Code/.env.template) file.
