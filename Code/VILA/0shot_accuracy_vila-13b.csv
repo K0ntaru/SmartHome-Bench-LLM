@@ -1,0 +1,1204 @@
+Video Name,Predicted Label,Title,Category,Label,True Label,Accuracy
+ring_00769,0,ring_00769,Pet Monitoring,Normal,0,1
+package_00067,0,package_00067,Security,Normal,0,1
+package_00058,0,package_00058,Security,Normal,0,1
+package_00020,0,package_00020,Security,Normal,0,1
+ring_00218,0,ring_00218,Security,Vague Abnormal,1,0
+ring_01175,0,ring_01175,Wildlife,Abnormal,1,0
+ring_00172,0,ring_00172,Wildlife,Abnormal,1,0
+ring_01120,0,ring_01120,Kid Monitoring,Normal,0,1
+ring_00580,0,ring_00580,Security,Abnormal,1,0
+ring_00495,0,ring_00495,Wildlife,Abnormal,1,0
+ring_00663,0,ring_00663,Pet Monitoring,Normal,0,1
+ring_00880,0,ring_00880,Wildlife,Abnormal,1,0
+ring_00439,0,ring_00439,Security,Abnormal,1,0
+ring_01377,0,ring_01377,Wildlife,Abnormal,1,0
+ring_00313,0,ring_00313,Security,Abnormal,1,0
+suppl_00007,0,suppl_00007,Baby Monitoring,Abnormal,1,0
+Wyze_team_00013,0,Wyze_team_00013,Security,Normal,0,1
+ring_01093,0,ring_01093,Pet Monitoring,Abnormal,1,0
+ring_00789,0,ring_00789,Security,Abnormal,1,0
+ring_00199,0,ring_00199,Wildlife,Abnormal,1,0
+ring_01312,0,ring_01312,Kid Monitoring,Normal,0,1
+ring_00689,0,ring_00689,Security,Abnormal,1,0
+ring_00577,0,ring_00577,Wildlife,Abnormal,1,0
+ring_00208,0,ring_00208,Security,Abnormal,1,0
+ring_00671,0,ring_00671,Security,Normal,0,1
+ring_00625,0,ring_00625,Wildlife,Normal,0,1
+Wyze_team_00041,0,Wyze_team_00041,Security,Normal,0,1
+wyze_00010,0,wyze_00010,Security,Normal,0,1
+ring_00513,0,ring_00513,Security,Normal,0,1
+ring_01304,0,ring_01304,Pet Monitoring,Normal,0,1
+ring_00419,0,ring_00419,Security,Abnormal,1,0
+ring_00787,0,ring_00787,Wildlife,Abnormal,1,0
+ring_00328,0,ring_00328,"{""choices"":[""Security"",""Pet Monitoring""]}",Vague Abnormal,1,0
+ring_00744,0,ring_00744,Security,Vague Abnormal,1,0
+ring_00312,0,ring_00312,Security,Normal,0,1
+ring_00845,0,ring_00845,Wildlife,Abnormal,1,0
+ring_01000,0,ring_01000,Pet Monitoring,Abnormal,1,0
+ring_00363,0,ring_00363,Security,Normal,0,1
+ring_00421,0,ring_00421,Security,Normal,0,1
+package_00040,0,package_00040,Security,Normal,0,1
+Wyze_team_00062,0,Wyze_team_00062,Security,Normal,0,1
+wyze_00015,0,wyze_00015,Other Category,Normal,0,1
+Wyze_team_00047,0,Wyze_team_00047,Pet Monitoring,Normal,0,1
+ring_00113,0,ring_00113,Wildlife,Abnormal,1,0
+ring_00701,0,ring_00701,Pet Monitoring,Abnormal,1,0
+ring_00627,0,ring_00627,Wildlife,Abnormal,1,0
+ring_00661,0,ring_00661,Pet Monitoring,Normal,0,1
+ring_00869,0,ring_00869,Security,Abnormal,1,0
+wyze_00023,0,wyze_00023,Pet Monitoring,Abnormal,1,0
+ring_00457,0,ring_00457,Wildlife,Abnormal,1,0
+ring_01030,0,ring_01030,Pet Monitoring,Abnormal,1,0
+ring_00644,0,ring_00644,Pet Monitoring,Normal,0,1
+ring_00240,0,ring_00240,Wildlife,Abnormal,1,0
+ring_00158,0,ring_00158,Security,Abnormal,1,0
+ring_00964,0,ring_00964,Wildlife,Abnormal,1,0
+ring_00189,0,ring_00189,Kid Monitoring,Normal,0,1
+ring_00455,0,ring_00455,Wildlife,Abnormal,1,0
+ring_00607,0,ring_00607,"{""choices"":[""Pet Monitoring"",""Kid Monitoring""]}",Normal,0,1
+ring_00024,0,ring_00024,Security,Normal,0,1
+Wyze_team_00036,0,Wyze_team_00036,Security,Normal,0,1
+package_00071,0,package_00071,Security,Normal,0,1
+ring_01400,0,ring_01400,Security,Abnormal,1,0
+ring_00025,0,ring_00025,Pet Monitoring,Abnormal,1,0
+ring_00136,0,ring_00136,Wildlife,Abnormal,1,0
+ring_00121,0,ring_00121,Security,Vague Abnormal,1,0
+package_00015,0,package_00015,Security,Normal,0,1
+ring_00847,0,ring_00847,Kid Monitoring,Normal,0,1
+Wyze_team_00027,0,Wyze_team_00027,Security,Normal,0,1
+ring_00055,0,ring_00055,Security,Normal,0,1
+package_00006,0,package_00006,Security,Normal,0,1
+ring_00249,0,ring_00249,Pet Monitoring,Normal,0,1
+ring_00354,0,ring_00354,Wildlife,Abnormal,1,0
+ring_00400,0,ring_00400,Wildlife,Abnormal,1,0
+ring_00273,0,ring_00273,Wildlife,Abnormal,1,0
+ring_00633,0,ring_00633,"{""choices"":[""Security"",""Wildlife""]}",Abnormal,1,0
+ring_00778,0,ring_00778,Wildlife,Abnormal,1,0
+wyze_00034,0,wyze_00034,Wildlife,Normal,0,1
+package_00045,0,package_00045,Security,Normal,0,1
+ring_00675,0,ring_00675,Wildlife,Abnormal,1,0
+ring_00865,0,ring_00865,Wildlife,Abnormal,1,0
+ring_00530,0,ring_00530,Security,Normal,0,1
+ring_00035,0,ring_00035,Security,Normal,0,1
+ring_00911,0,ring_00911,Wildlife,Abnormal,1,0
+ring_00567,0,ring_00567,Baby Monitoring,Normal,0,1
+ring_00696,0,ring_00696,Security,Vague Abnormal,1,0
+ring_01052,0,ring_01052,Security,Abnormal,1,0
+ring_00011,0,ring_00011,Security,Abnormal,1,0
+ring_00433,0,ring_00433,Pet Monitoring,Normal,0,1
+ring_00228,0,ring_00228,Pet Monitoring,Abnormal,1,0
+package_00049,0,package_00049,Security,Normal,0,1
+ring_00684,0,ring_00684,Security,Normal,0,1
+ring_00406,0,ring_00406,Wildlife,Abnormal,1,0
+ring_00090,0,ring_00090,Wildlife,Abnormal,1,0
+ring_00216,0,ring_00216,Pet Monitoring,Normal,0,1
+ring_00462,0,ring_00462,Pet Monitoring,Abnormal,1,0
+Wyze_team_00005,0,Wyze_team_00005,Security,Normal,0,1
+ring_00198,0,ring_00198,Kid Monitoring,Normal,0,1
+ring_00022,0,ring_00022,Security,Abnormal,1,0
+ring_00710,0,ring_00710,Security,Vague Abnormal,1,0
+ring_00141,0,ring_00141,"{""choices"":[""Wildlife"",""Pet Monitoring""]}",Abnormal,1,0
+ring_00123,0,ring_00123,Wildlife,Abnormal,1,0
+Wyze_team_00037,0,Wyze_team_00037,Security,Normal,0,1
+ring_00786,0,ring_00786,Pet Monitoring,Normal,0,1
+ring_00725,0,ring_00725,Security,Abnormal,1,0
+ring_00819,0,ring_00819,Security,Normal,0,1
+ring_00832,0,ring_00832,"{""choices"":[""Security"",""Pet Monitoring""]}",Vague Abnormal,1,0
+ring_01385,0,ring_01385,"{""choices"":[""Wildlife"",""Pet Monitoring""]}",Abnormal,1,0
+ring_00448,0,ring_00448,Pet Monitoring,Normal,0,1
+Wyze_team_00022,0,Wyze_team_00022,Security,Normal,0,1
+ring_01337,0,ring_01337,Wildlife,Abnormal,1,0
+ring_00074,0,ring_00074,Security,Normal,0,1
+package_00081,0,package_00081,Security,Normal,0,1
+suppl_00017,0,suppl_00017,Senior Care,Abnormal,1,0
+ring_01072,0,ring_01072,Security,Abnormal,1,0
+ring_00133,0,ring_00133,Kid Monitoring,Normal,0,1
+ring_00516,0,ring_00516,Wildlife,Abnormal,1,0
+ring_01338,0,ring_01338,Security,Normal,0,1
+package_00005,0,package_00005,Security,Normal,0,1
+ring_00117,0,ring_00117,Security,Abnormal,1,0
+ring_00895,0,ring_00895,Wildlife,Abnormal,1,0
+ring_00479,0,ring_00479,Wildlife,Abnormal,1,0
+ring_01033,0,ring_01033,Wildlife,Abnormal,1,0
+ring_00508,0,ring_00508,Wildlife,Abnormal,1,0
+ring_00159,0,ring_00159,Wildlife,Abnormal,1,0
+ring_00771,0,ring_00771,Wildlife,Abnormal,1,0
+package_00088,0,package_00088,Security,Normal,0,1
+wyze_00018,0,wyze_00018,Other Category,Normal,0,1
+ring_00088,0,ring_00088,Wildlife,Abnormal,1,0
+ring_00497,0,ring_00497,Security,Abnormal,1,0
+ring_00538,0,ring_00538,Wildlife,Abnormal,1,0
+ring_00752,0,ring_00752,Security,Normal,0,1
+ring_00080,0,ring_00080,Other Category,Normal,0,1
+ring_00650,0,ring_00650,Security,Normal,0,1
+ring_01383,0,ring_01383,Security,Vague Abnormal,1,0
+ring_00107,0,ring_00107,Pet Monitoring,Abnormal,1,0
+ring_00574,0,ring_00574,Security,Normal,0,1
+Wyze_team_00040,0,Wyze_team_00040,Pet Monitoring,Normal,0,1
+ring_00311,0,ring_00311,Security,Normal,0,1
+ring_00366,0,ring_00366,Pet Monitoring,Normal,0,1
+ring_00094,0,ring_00094,Security,Normal,0,1
+ring_00515,0,ring_00515,Security,Abnormal,1,0
+ring_00201,0,ring_00201,"{""choices"":[""Wildlife"",""Pet Monitoring""]}",Abnormal,1,0
+Wyze_team_00054,0,Wyze_team_00054,Security,Normal,0,1
+wyze_00013,0,wyze_00013,Security,Normal,0,1
+Wyze_team_00034,0,Wyze_team_00034,Security,Normal,0,1
+ring_00217,0,ring_00217,Wildlife,Abnormal,1,0
+ring_01398,0,ring_01398,Wildlife,Abnormal,1,0
+ring_00611,0,ring_00611,Security,Normal,0,1
+ring_00511,0,ring_00511,Wildlife,Abnormal,1,0
+ring_00272,0,ring_00272,Security,Normal,0,1
+ring_00177,0,ring_00177,Wildlife,Abnormal,1,0
+ring_00539,0,ring_00539,Security,Abnormal,1,0
+ring_00286,0,ring_00286,Wildlife,Abnormal,1,0
+ring_00444,0,ring_00444,Security,Abnormal,1,0
+wyze_00027,0,wyze_00027,Security,Vague Abnormal,1,0
+ring_00816,0,ring_00816,Baby Monitoring,Normal,0,1
+ring_00106,0,ring_00106,Pet Monitoring,Normal,0,1
+ring_00150,0,ring_00150,Wildlife,Abnormal,1,0
+ring_00817,0,ring_00817,Wildlife,Abnormal,1,0
+package_00034,0,package_00034,Security,Normal,0,1
+ring_00820,0,ring_00820,Security,Normal,0,1
+ring_00369,0,ring_00369,Security,Normal,0,1
+ring_00636,0,ring_00636,Wildlife,Abnormal,1,0
+suppl_00023,0,suppl_00023,Senior Care,Normal,0,1
+ring_01374,0,ring_01374,Security,Abnormal,1,0
+ring_00536,0,ring_00536,Security,Abnormal,1,0
+ring_00874,0,ring_00874,Security,Abnormal,1,0
+ring_00775,0,ring_00775,Security,Vague Abnormal,1,0
+ring_01004,0,ring_01004,Pet Monitoring,Normal,0,1
+suppl_00008,0,suppl_00008,Baby Monitoring,Abnormal,1,0
+ring_01101,0,ring_01101,Security,Normal,0,1
+ring_00453,0,ring_00453,Wildlife,Abnormal,1,0
+ring_01069,0,ring_01069,Security,Abnormal,1,0
+ring_01257,0,ring_01257,Security,Normal,0,1
+Wyze_team_00011,0,Wyze_team_00011,Security,Normal,0,1
+ring_01063,0,ring_01063,Security,Abnormal,1,0
+wyze_00019,0,wyze_00019,Other Category,Normal,0,1
+ring_00355,0,ring_00355,Pet Monitoring,Normal,0,1
+ring_00707,0,ring_00707,Security,Abnormal,1,0
+ring_00048,0,ring_00048,Pet Monitoring,Normal,0,1
+ring_01467,0,ring_01467,Wildlife,Abnormal,1,0
+ring_00873,0,ring_00873,Kid Monitoring,Normal,0,1
+ring_01360,0,ring_01360,Pet Monitoring,Abnormal,1,0
+ring_01256,0,ring_01256,Security,Normal,0,1
+ring_00943,0,ring_00943,Security,Vague Abnormal,1,0
+ring_01013,0,ring_01013,Wildlife,Abnormal,1,0
+ring_00362,0,ring_00362,Wildlife,Abnormal,1,0
+package_00017,0,package_00017,Security,Normal,0,1
+ring_00231,0,ring_00231,Pet Monitoring,Vague Abnormal,1,0
+ring_00537,0,ring_00537,Pet Monitoring,Normal,0,1
+wyze_00028,0,wyze_00028,Security,Vague Abnormal,1,0
+ring_00230,0,ring_00230,Wildlife,Abnormal,1,0
+Wyze_team_00060,0,Wyze_team_00060,Security,Normal,0,1
+ring_01017,0,ring_01017,Wildlife,Abnormal,1,0
+ring_00945,0,ring_00945,Security,Abnormal,1,0
+ring_01351,0,ring_01351,Wildlife,Abnormal,1,0
+ring_00429,0,ring_00429,Security,Vague Abnormal,1,0
+ring_00131,0,ring_00131,Wildlife,Abnormal,1,0
+ring_01105,0,ring_01105,Wildlife,Abnormal,1,0
+wyze_00033,0,wyze_00033,Wildlife,Abnormal,1,0
+wyze_00007,0,wyze_00007,Pet Monitoring,Normal,0,1
+ring_00839,0,ring_00839,Wildlife,Abnormal,1,0
+package_00060,0,package_00060,Security,Abnormal,1,0
+ring_00187,0,ring_00187,Pet Monitoring,Normal,0,1
+ring_00768,0,ring_00768,Baby Monitoring,Normal,0,1
+ring_00499,0,ring_00499,Wildlife,Abnormal,1,0
+ring_00190,0,ring_00190,Wildlife,Abnormal,1,0
+ring_01146,0,ring_01146,Security,Normal,0,1
+ring_00494,0,ring_00494,Security,Vague Abnormal,1,0
+ring_00226,0,ring_00226,Security,Abnormal,1,0
+ring_00748,0,ring_00748,Security,Normal,0,1
+ring_00853,0,ring_00853,Wildlife,Abnormal,1,0
+ring_00726,0,ring_00726,Wildlife,Abnormal,1,0
+ring_00300,0,ring_00300,Pet Monitoring,Normal,0,1
+ring_00279,0,ring_00279,Kid Monitoring,Abnormal,1,0
+ring_00358,0,ring_00358,Security,Vague Abnormal,1,0
+ring_00162,0,ring_00162,Wildlife,Abnormal,1,0
+Wyze_team_00051,0,Wyze_team_00051,Security,Vague Abnormal,1,0
+ring_00194,0,ring_00194,Wildlife,Abnormal,1,0
+ring_00826,0,ring_00826,Security,Abnormal,1,0
+ring_01425,0,ring_01425,Wildlife,Abnormal,1,0
+ring_01029,0,ring_01029,Wildlife,Abnormal,1,0
+ring_01431,0,ring_01431,Wildlife,Abnormal,1,0
+ring_00700,0,ring_00700,Security,Normal,0,1
+ring_01107,0,ring_01107,"{""choices"":[""Security"",""Wildlife""]}",Abnormal,1,0
+ring_00477,0,ring_00477,Security,Normal,0,1
+ring_00427,0,ring_00427,Security,Normal,0,1
+ring_00283,0,ring_00283,Wildlife,Abnormal,1,0
+Wyze_team_00020,0,Wyze_team_00020,Security,Normal,0,1
+ring_01169,0,ring_01169,Security,Abnormal,1,0
+ring_01043,0,ring_01043,Security,Abnormal,1,0
+ring_00036,0,ring_00036,"{""choices"":[""Security"",""Pet Monitoring"",""Kid Monitoring""]}",Normal,0,1
+ring_00559,0,ring_00559,Security,Normal,0,1
+Wyze_team_00078,0,Wyze_team_00078,Security,Normal,0,1
+ring_00430,0,ring_00430,Security,Normal,0,1
+ring_00144,0,ring_00144,Wildlife,Abnormal,1,0
+ring_00665,0,ring_00665,Security,Normal,0,1
+ring_00666,0,ring_00666,Security,Normal,0,1
+ring_01361,0,ring_01361,Security,Abnormal,1,0
+ring_00005,0,ring_00005,Wildlife,Abnormal,1,0
+ring_00101,0,ring_00101,Wildlife,Abnormal,1,0
+Wyze_team_00056,0,Wyze_team_00056,Security,Normal,0,1
+ring_00268,0,ring_00268,Wildlife,Abnormal,1,0
+ring_00368,0,ring_00368,Pet Monitoring,Abnormal,1,0
+ring_00669,0,ring_00669,Kid Monitoring,Normal,0,1
+Wyze_team_00006,0,Wyze_team_00006,Security,Normal,0,1
+ring_01171,0,ring_01171,Pet Monitoring,Abnormal,1,0
+ring_01446,0,ring_01446,Pet Monitoring,Abnormal,1,0
+ring_00093,0,ring_00093,Wildlife,Abnormal,1,0
+Wyze_team_00073,0,Wyze_team_00073,Security,Normal,0,1
+ring_00714,0,ring_00714,Wildlife,Abnormal,1,0
+ring_00104,0,ring_00104,Pet Monitoring,Normal,0,1
+ring_00197,0,ring_00197,Wildlife,Vague Abnormal,1,0
+package_00043,0,package_00043,Security,Normal,0,1
+ring_00132,0,ring_00132,Wildlife,Vague Abnormal,1,0
+ring_00680,0,ring_00680,Pet Monitoring,Normal,0,1
+ring_00174,0,ring_00174,Security,Normal,0,1
+ring_01106,0,ring_01106,Security,Abnormal,1,0
+wyze_00029,0,wyze_00029,Security,Vague Abnormal,1,0
+ring_00065,0,ring_00065,Pet Monitoring,Abnormal,1,0
+ring_01435,0,ring_01435,Pet Monitoring,Normal,0,1
+ring_00960,0,ring_00960,Wildlife,Abnormal,1,0
+ring_00631,0,ring_00631,Wildlife,Abnormal,1,0
+Wyze_team_00001,0,Wyze_team_00001,Security,Normal,0,1
+ring_00754,0,ring_00754,Wildlife,Abnormal,1,0
+ring_00957,0,ring_00957,Security,Abnormal,1,0
+ring_00147,0,ring_00147,Pet Monitoring,Normal,0,1
+ring_00336,0,ring_00336,Security,Vague Abnormal,1,0
+ring_00438,0,ring_00438,Wildlife,Abnormal,1,0
+suppl_00014,0,suppl_00014,Senior Care,Abnormal,1,0
+ring_00171,0,ring_00171,Pet Monitoring,Normal,0,1
+ring_00753,0,ring_00753,Wildlife,Abnormal,1,0
+Wyze_team_00017,0,Wyze_team_00017,Security,Normal,0,1
+ring_00236,0,ring_00236,Security,Abnormal,1,0
+ring_00010,0,ring_00010,Wildlife,Abnormal,1,0
+ring_00486,0,ring_00486,"{""choices"":[""Security"",""Wildlife""]}",Abnormal,1,0
+suppl_00018,0,suppl_00018,Senior Care,Abnormal,1,0
+ring_00556,0,ring_00556,Wildlife,Abnormal,1,0
+ring_00105,0,ring_00105,Security,Vague Abnormal,1,0
+ring_00606,0,ring_00606,Security,Normal,0,1
+ring_00339,0,ring_00339,Security,Normal,0,1
+ring_00780,0,ring_00780,Security,Vague Abnormal,1,0
+ring_00195,0,ring_00195,Pet Monitoring,Abnormal,1,0
+ring_00605,0,ring_00605,Security,Abnormal,1,0
+wyze_00017,0,wyze_00017,Other Category,Normal,0,1
+Wyze_team_00012,0,Wyze_team_00012,Security,Normal,0,1
+ring_00944,0,ring_00944,Pet Monitoring,Abnormal,1,0
+ring_01470,0,ring_01470,Pet Monitoring,Abnormal,1,0
+suppl_00012,0,suppl_00012,Baby Monitoring,Abnormal,1,0
+Wyze_team_00028,0,Wyze_team_00028,Security,Normal,0,1
+ring_00039,0,ring_00039,Pet Monitoring,Abnormal,1,0
+ring_00334,0,ring_00334,Wildlife,Abnormal,1,0
+ring_00583,0,ring_00583,Security,Normal,0,1
+wyze_00036,0,wyze_00036,Security,Abnormal,1,0
+ring_00614,0,ring_00614,Security,Vague Abnormal,1,0
+ring_00097,0,ring_00097,Kid Monitoring,Vague Abnormal,1,0
+ring_00156,0,ring_00156,"{""choices"":[""Security"",""Wildlife""]}",Normal,0,1
+ring_00282,0,ring_00282,Security,Abnormal,1,0
+ring_00316,0,ring_00316,Wildlife,Abnormal,1,0
+ring_00320,0,ring_00320,Security,Abnormal,1,0
+ring_01302,0,ring_01302,Pet Monitoring,Abnormal,1,0
+ring_00601,0,ring_00601,Pet Monitoring,Abnormal,1,0
+wyze_00021,0,wyze_00021,Wildlife,Abnormal,1,0
+ring_00062,0,ring_00062,Pet Monitoring,Normal,0,1
+ring_00306,0,ring_00306,Kid Monitoring,Vague Abnormal,1,0
+ring_00715,0,ring_00715,Pet Monitoring,Normal,0,1
+wyze_00009,0,wyze_00009,Wildlife,Abnormal,1,0
+ring_00092,0,ring_00092,Security,Normal,0,1
+ring_00989,0,ring_00989,Security,Normal,0,1
+Wyze_team_00055,0,Wyze_team_00055,Security,Normal,0,1
+ring_00654,0,ring_00654,Security,Normal,0,1
+ring_01268,0,ring_01268,Kid Monitoring,Normal,0,1
+ring_00353,0,ring_00353,Security,Normal,0,1
+ring_00823,0,ring_00823,Pet Monitoring,Normal,0,1
+package_00009,0,package_00009,Security,Normal,0,1
+ring_00124,0,ring_00124,Wildlife,Abnormal,1,0
+ring_00109,0,ring_00109,"{""choices"":[""Security"",""Kid Monitoring""]}",Normal,0,1
+ring_00557,0,ring_00557,Wildlife,Abnormal,1,0
+ring_00314,0,ring_00314,Security,Normal,0,1
+ring_00531,0,ring_00531,Wildlife,Abnormal,1,0
+ring_00152,0,ring_00152,Kid Monitoring,Normal,0,1
+ring_00824,0,ring_00824,Security,Normal,0,1
+ring_00417,0,ring_00417,Pet Monitoring,Normal,0,1
+ring_00475,0,ring_00475,Kid Monitoring,Normal,0,1
+ring_01095,0,ring_01095,Wildlife,Abnormal,1,0
+ring_00777,0,ring_00777,Security,Vague Abnormal,1,0
+ring_00478,0,ring_00478,Wildlife,Abnormal,1,0
+ring_00185,0,ring_00185,Pet Monitoring,Normal,0,1
+Wyze_team_00067,0,Wyze_team_00067,Security,Normal,0,1
+ring_00581,0,ring_00581,Security,Normal,0,1
+ring_01451,0,ring_01451,Wildlife,Abnormal,1,0
+ring_00498,0,ring_00498,Wildlife,Abnormal,1,0
+ring_00120,0,ring_00120,"{""choices"":[""Security"",""Wildlife""]}",Abnormal,1,0
+Wyze_team_00049,0,Wyze_team_00049,Security,Normal,0,1
+wyze_00002,0,wyze_00002,Wildlife,Abnormal,1,0
+ring_01037,0,ring_01037,Security,Normal,0,1
+package_00032,0,package_00032,Security,Normal,0,1
+ring_00160,0,ring_00160,Security,Vague Abnormal,1,0
+ring_00894,0,ring_00894,Kid Monitoring,Normal,0,1
+ring_00602,0,ring_00602,Security,Normal,0,1
+ring_00200,0,ring_00200,Pet Monitoring,Normal,0,1
+ring_00681,0,ring_00681,Pet Monitoring,Normal,0,1
+ring_00913,0,ring_00913,Security,Vague Abnormal,1,0
+ring_00628,0,ring_00628,Security,Normal,0,1
+ring_01176,0,ring_01176,Wildlife,Abnormal,1,0
+ring_00207,0,ring_00207,Wildlife,Abnormal,1,0
+ring_01298,0,ring_01298,Security,Abnormal,1,0
+ring_00256,0,ring_00256,Wildlife,Abnormal,1,0
+wyze_00011,0,wyze_00011,Pet Monitoring,Abnormal,1,0
+ring_00045,0,ring_00045,Baby Monitoring,Normal,0,1
+ring_00656,0,ring_00656,Wildlife,Normal,0,1
+ring_01313,0,ring_01313,Security,Normal,0,1
+ring_01149,0,ring_01149,Pet Monitoring,Abnormal,1,0
+ring_00325,0,ring_00325,Security,Abnormal,1,0
+package_00089,0,package_00089,Security,Normal,0,1
+Wyze_team_00032,0,Wyze_team_00032,Security,Normal,0,1
+ring_00548,0,ring_00548,Security,Abnormal,1,0
+ring_01287,0,ring_01287,Wildlife,Abnormal,1,0
+Wyze_team_00018,0,Wyze_team_00018,Security,Normal,0,1
+ring_00729,0,ring_00729,Pet Monitoring,Normal,0,1
+ring_01379,0,ring_01379,Security,Normal,0,1
+ring_01428,0,ring_01428,Security,Normal,0,1
+ring_00072,0,ring_00072,Pet Monitoring,Normal,0,1
+ring_00276,0,ring_00276,Security,Abnormal,1,0
+ring_00251,0,ring_00251,Wildlife,Abnormal,1,0
+ring_00594,0,ring_00594,Security,Abnormal,1,0
+ring_00333,0,ring_00333,Wildlife,Abnormal,1,0
+ring_00270,0,ring_00270,Wildlife,Abnormal,1,0
+suppl_00024,0,suppl_00024,Senior Care,Normal,0,1
+Wyze_team_00072,0,Wyze_team_00072,Security,Normal,0,1
+ring_00866,0,ring_00866,Pet Monitoring,Normal,0,1
+ring_00446,0,ring_00446,Security,Normal,0,1
+suppl_00001,0,suppl_00001,Security,Normal,0,1
+ring_00813,0,ring_00813,Security,Normal,0,1
+ring_00253,0,ring_00253,Pet Monitoring,Vague Abnormal,1,0
+ring_01355,0,ring_01355,Pet Monitoring,Abnormal,1,0
+suppl_00028,0,suppl_00028,Senior Care,Normal,0,1
+ring_00545,0,ring_00545,Wildlife,Normal,0,1
+ring_00181,0,ring_00181,Pet Monitoring,Normal,0,1
+ring_00635,0,ring_00635,Security,Abnormal,1,0
+Wyze_team_00016,0,Wyze_team_00016,Security,Normal,0,1
+Wyze_team_00069,0,Wyze_team_00069,Security,Normal,0,1
+ring_00643,0,ring_00643,Security,Normal,0,1
+Wyze_team_00045,0,Wyze_team_00045,Security,Normal,0,1
+ring_00518,0,ring_00518,Wildlife,Abnormal,1,0
+ring_00658,0,ring_00658,Wildlife,Abnormal,1,0
+ring_00881,0,ring_00881,Kid Monitoring,Vague Abnormal,1,0
+ring_00292,0,ring_00292,Pet Monitoring,Abnormal,1,0
+ring_00535,0,ring_00535,Wildlife,Abnormal,1,0
+ring_00670,0,ring_00670,Pet Monitoring,Normal,0,1
+ring_00510,0,ring_00510,Security,Abnormal,1,0
+ring_00878,0,ring_00878,Kid Monitoring,Normal,0,1
+ring_00246,0,ring_00246,Pet Monitoring,Abnormal,1,0
+ring_01372,0,ring_01372,Wildlife,Abnormal,1,0
+ring_00040,0,ring_00040,Wildlife,Normal,0,1
+ring_00145,0,ring_00145,Pet Monitoring,Normal,0,1
+ring_01317,0,ring_01317,Pet Monitoring,Abnormal,1,0
+ring_01440,0,ring_01440,"{""choices"":[""Wildlife"",""Pet Monitoring""]}",Abnormal,1,0
+Wyze_team_00033,0,Wyze_team_00033,Security,Normal,0,1
+ring_00002,0,ring_00002,Baby Monitoring,Vague Abnormal,1,0
+ring_00572,0,ring_00572,Pet Monitoring,Normal,0,1
+ring_00808,0,ring_00808,Kid Monitoring,Abnormal,1,0
+ring_00795,0,ring_00795,Security,Abnormal,1,0
+ring_00698,0,ring_00698,Security,Normal,0,1
+package_00051,0,package_00051,Security,Normal,0,1
+ring_00285,0,ring_00285,Baby Monitoring,Normal,0,1
+ring_01147,0,ring_01147,Security,Normal,0,1
+ring_01468,0,ring_01468,Pet Monitoring,Abnormal,1,0
+ring_01270,0,ring_01270,Baby Monitoring,Normal,0,1
+ring_00263,0,ring_00263,Wildlife,Normal,0,1
+Wyze_team_00079,0,Wyze_team_00079,Security,Normal,0,1
+ring_00050,0,ring_00050,Wildlife,Vague Abnormal,1,0
+package_00037,0,package_00037,Security,Normal,0,1
+ring_00083,0,ring_00083,Security,Normal,0,1
+ring_00041,0,ring_00041,Wildlife,Abnormal,1,0
+ring_00319,0,ring_00319,Wildlife,Abnormal,1,0
+ring_00387,0,ring_00387,Pet Monitoring,Abnormal,1,0
+ring_00077,0,ring_00077,Wildlife,Abnormal,1,0
+ring_00332,0,ring_00332,Pet Monitoring,Normal,0,1
+ring_01478,0,ring_01478,Wildlife,Abnormal,1,0
+ring_00543,0,ring_00543,Wildlife,Abnormal,1,0
+ring_00963,0,ring_00963,Security,Normal,0,1
+ring_00664,0,ring_00664,Security,Normal,0,1
+Wyze_team_00052,0,Wyze_team_00052,Security,Normal,0,1
+ring_00850,0,ring_00850,Security,Normal,0,1
+ring_00408,0,ring_00408,Wildlife,Abnormal,1,0
+package_00082,0,package_00082,Security,Normal,0,1
+suppl_00032,0,suppl_00032,Senior Care,Normal,0,1
+ring_00129,0,ring_00129,Pet Monitoring,Normal,0,1
+package_00068,0,package_00068,Security,Normal,0,1
+ring_00259,0,ring_00259,Wildlife,Abnormal,1,0
+ring_00307,0,ring_00307,Pet Monitoring,Vague Abnormal,1,0
+ring_00468,0,ring_00468,Wildlife,Abnormal,1,0
+Wyze_team_00071,0,Wyze_team_00071,Security,Normal,0,1
+ring_00480,0,ring_00480,Security,Abnormal,1,0
+ring_00791,0,ring_00791,Security,Vague Abnormal,1,0
+package_00077,0,package_00077,Security,Normal,0,1
+ring_00697,0,ring_00697,Security,Abnormal,1,0
+ring_00998,0,ring_00998,Security,Abnormal,1,0
+ring_00007,0,ring_00007,Security,Abnormal,1,0
+ring_00705,0,ring_00705,Security,Normal,0,1
+ring_00704,0,ring_00704,Security,Vague Abnormal,1,0
+ring_00502,0,ring_00502,Wildlife,Abnormal,1,0
+ring_00815,0,ring_00815,Security,Abnormal,1,0
+ring_01345,0,ring_01345,Security,Vague Abnormal,1,0
+ring_00750,0,ring_00750,Security,Normal,0,1
+ring_00118,0,ring_00118,Wildlife,Abnormal,1,0
+ring_00830,0,ring_00830,Wildlife,Abnormal,1,0
+ring_00886,0,ring_00886,Pet Monitoring,Normal,0,1
+ring_00401,0,ring_00401,Security,Normal,0,1
+ring_00940,0,ring_00940,Security,Abnormal,1,0
+ring_00734,0,ring_00734,Security,Normal,0,1
+ring_00183,0,ring_00183,Security,Abnormal,1,0
+ring_01260,0,ring_01260,Wildlife,Abnormal,1,0
+package_00093,0,package_00093,Security,Normal,0,1
+ring_00220,0,ring_00220,Security,Normal,0,1
+ring_00304,0,ring_00304,Wildlife,Abnormal,1,0
+ring_00902,0,ring_00902,Other Category,Abnormal,1,0
+Wyze_team_00080,0,Wyze_team_00080,Security,Normal,0,1
+ring_00058,0,ring_00058,Kid Monitoring,Normal,0,1
+ring_00085,0,ring_00085,Kid Monitoring,Normal,0,1
+ring_01334,0,ring_01334,Wildlife,Abnormal,1,0
+ring_00297,0,ring_00297,Wildlife,Abnormal,1,0
+ring_00324,0,ring_00324,Security,Vague Abnormal,1,0
+ring_00338,0,ring_00338,Security,Normal,0,1
+ring_00149,0,ring_00149,Security,Abnormal,1,0
+ring_00184,0,ring_00184,Wildlife,Abnormal,1,0
+ring_00206,0,ring_00206,Pet Monitoring,Normal,0,1
+Wyze_team_00048,0,Wyze_team_00048,Security,Normal,0,1
+ring_00505,0,ring_00505,Wildlife,Abnormal,1,0
+package_00033,0,package_00033,Security,Normal,0,1
+ring_00743,0,ring_00743,Pet Monitoring,Normal,0,1
+Wyze_team_00030,0,Wyze_team_00030,Security,Normal,0,1
+ring_01417,0,ring_01417,Wildlife,Abnormal,1,0
+ring_01341,0,ring_01341,Wildlife,Abnormal,1,0
+ring_00724,0,ring_00724,Pet Monitoring,Normal,0,1
+ring_00164,0,ring_00164,Security,Normal,0,1
+ring_00928,0,ring_00928,Security,Normal,0,1
+Wyze_team_00057,0,Wyze_team_00057,Security,Normal,0,1
+Wyze_team_00031,0,Wyze_team_00031,Security,Normal,0,1
+package_00046,0,package_00046,Security,Normal,0,1
+ring_00188,0,ring_00188,Kid Monitoring,Normal,0,1
+ring_00931,0,ring_00931,Wildlife,Abnormal,1,0
+ring_01157,0,ring_01157,"{""choices"":[""Security"",""Pet Monitoring""]}",Normal,0,1
+ring_00840,0,ring_00840,Security,Abnormal,1,0
+package_00029,0,package_00029,Security,Normal,0,1
+ring_00695,0,ring_00695,Wildlife,Abnormal,1,0
+package_00056,0,package_00056,Security,Normal,0,1
+ring_00327,0,ring_00327,Security,Normal,0,1
+ring_00584,0,ring_00584,Wildlife,Vague Abnormal,1,0
+package_00016,0,package_00016,Security,Normal,0,1
+ring_00445,0,ring_00445,Wildlife,Abnormal,1,0
+ring_00031,0,ring_00031,Security,Vague Abnormal,1,0
+ring_00884,0,ring_00884,Security,Abnormal,1,0
+ring_00694,0,ring_00694,Security,Normal,0,1
+ring_01042,0,ring_01042,Kid Monitoring,Normal,0,1
+ring_00690,0,ring_00690,"{""choices"":[""Security"",""Pet Monitoring""]}",Normal,0,1
+ring_00391,0,ring_00391,Security,Vague Abnormal,1,0
+ring_00632,0,ring_00632,Security,Normal,0,1
+ring_00115,0,ring_00115,Senior Care,Vague Abnormal,1,0
+ring_00063,0,ring_00063,Pet Monitoring,Normal,0,1
+ring_00322,0,ring_00322,Wildlife,Normal,0,1
+package_00010,0,package_00010,Security,Normal,0,1
+ring_00012,0,ring_00012,Wildlife,Abnormal,1,0
+ring_00393,0,ring_00393,Wildlife,Abnormal,1,0
+ring_01300,0,ring_01300,"{""choices"":[""Security"",""Wildlife""]}",Abnormal,1,0
+ring_00170,0,ring_00170,Pet Monitoring,Abnormal,1,0
+ring_00163,0,ring_00163,Pet Monitoring,Normal,0,1
+package_00036,0,package_00036,Security,Normal,0,1
+wyze_00030,0,wyze_00030,Wildlife,Abnormal,1,0
+ring_00854,0,ring_00854,Security,Normal,0,1
+package_00062,0,package_00062,Security,Normal,0,1
+ring_00796,0,ring_00796,"{""choices"":[""Security"",""Kid Monitoring""]}",Normal,0,1
+ring_00099,0,ring_00099,Wildlife,Abnormal,1,0
+ring_00278,0,ring_00278,Wildlife,Normal,0,1
+ring_00776,0,ring_00776,Security,Abnormal,1,0
+ring_00017,0,ring_00017,Security,Normal,0,1
+Wyze_team_00081,0,Wyze_team_00081,Security,Normal,0,1
+ring_00116,0,ring_00116,Pet Monitoring,Abnormal,1,0
+ring_00341,0,ring_00341,Pet Monitoring,Abnormal,1,0
+wyze_00035,0,wyze_00035,Wildlife,Abnormal,1,0
+ring_00078,0,ring_00078,Wildlife,Abnormal,1,0
+ring_00102,0,ring_00102,Wildlife,Abnormal,1,0
+ring_01324,0,ring_01324,Wildlife,Abnormal,1,0
+ring_00155,0,ring_00155,Pet Monitoring,Normal,0,1
+ring_00841,0,ring_00841,Security,Normal,0,1
+ring_00344,0,ring_00344,Wildlife,Abnormal,1,0
+Wyze_team_00026,0,Wyze_team_00026,Security,Normal,0,1
+wyze_00020,0,wyze_00020,Security,Normal,0,1
+ring_00930,0,ring_00930,Pet Monitoring,Abnormal,1,0
+ring_01008,0,ring_01008,Security,Abnormal,1,0
+ring_00655,0,ring_00655,Security,Normal,0,1
+ring_00555,0,ring_00555,Wildlife,Abnormal,1,0
+ring_00688,0,ring_00688,Wildlife,Abnormal,1,0
+ring_00862,0,ring_00862,Security,Normal,0,1
+ring_00747,0,ring_00747,"{""choices"":[""Security"",""Wildlife""]}",Abnormal,1,0
+ring_00119,0,ring_00119,Wildlife,Abnormal,1,0
+ring_00529,0,ring_00529,Wildlife,Abnormal,1,0
+ring_00026,0,ring_00026,Wildlife,Normal,0,1
+ring_00561,0,ring_00561,Security,Vague Abnormal,1,0
+package_00039,0,package_00039,Security,Normal,0,1
+ring_01305,0,ring_01305,"{""choices"":[""Wildlife"",""Pet Monitoring""]}",Abnormal,1,0
+ring_00086,0,ring_00086,Wildlife,Abnormal,1,0
+Wyze_team_00010,0,Wyze_team_00010,Security,Normal,0,1
+ring_00310,0,ring_00310,Security,Abnormal,1,0
+ring_00290,0,ring_00290,Security,Abnormal,1,0
+ring_00175,0,ring_00175,Wildlife,Abnormal,1,0
+package_00064,0,package_00064,Security,Normal,0,1
+ring_00214,0,ring_00214,Pet Monitoring,Normal,0,1
+ring_00423,0,ring_00423,Wildlife,Abnormal,1,0
+ring_00673,0,ring_00673,Security,Normal,0,1
+package_00044,0,package_00044,Security,Normal,0,1
+ring_00525,0,ring_00525,Pet Monitoring,Abnormal,1,0
+ring_00404,0,ring_00404,Wildlife,Abnormal,1,0
+ring_00788,0,ring_00788,Kid Monitoring,Normal,0,1
+package_00031,0,package_00031,Security,Normal,0,1
+ring_00542,0,ring_00542,Security,Abnormal,1,0
+ring_01368,0,ring_01368,"{""choices"":[""Wildlife"",""Pet Monitoring""]}",Abnormal,1,0
+Wyze_team_00004,0,Wyze_team_00004,Security,Normal,0,1
+ring_01047,0,ring_01047,Pet Monitoring,Abnormal,1,0
+ring_00360,0,ring_00360,Pet Monitoring,Normal,0,1
+ring_01432,0,ring_01432,Wildlife,Abnormal,1,0
+ring_00835,0,ring_00835,Pet Monitoring,Abnormal,1,0
+ring_00802,0,ring_00802,Kid Monitoring,Normal,0,1
+Wyze_team_00083,0,Wyze_team_00083,Security,Normal,0,1
+ring_00168,0,ring_00168,Security,Abnormal,1,0
+ring_00549,0,ring_00549,Security,Vague Abnormal,1,0
+ring_00589,0,ring_00589,Security,Abnormal,1,0
+ring_00723,0,ring_00723,Security,Abnormal,1,0
+package_00084,0,package_00084,Security,Normal,0,1
+ring_00466,0,ring_00466,Security,Normal,0,1
+ring_00243,0,ring_00243,Wildlife,Abnormal,1,0
+ring_00522,0,ring_00522,Pet Monitoring,Abnormal,1,0
+package_00007,0,package_00007,Security,Normal,0,1
+ring_00186,0,ring_00186,Wildlife,Abnormal,1,0
+ring_00855,0,ring_00855,Pet Monitoring,Normal,0,1
+ring_01329,0,ring_01329,Pet Monitoring,Abnormal,1,0
+ring_00524,0,ring_00524,Security,Abnormal,1,0
+suppl_00004,0,suppl_00004,Pet Monitoring,Normal,0,1
+Wyze_team_00029,0,Wyze_team_00029,Security,Normal,0,1
+Wyze_team_00075,0,Wyze_team_00075,Security,Normal,0,1
+ring_00069,0,ring_00069,Pet Monitoring,Abnormal,1,0
+ring_00728,0,ring_00728,Security,Normal,0,1
+ring_00843,0,ring_00843,Pet Monitoring,Normal,0,1
+ring_00925,0,ring_00925,Other Category,Vague Abnormal,1,0
+ring_00926,0,ring_00926,Wildlife,Abnormal,1,0
+ring_00018,0,ring_00018,Wildlife,Abnormal,1,0
+ring_00126,0,ring_00126,Wildlife,Abnormal,1,0
+ring_00030,0,ring_00030,Wildlife,Abnormal,1,0
+ring_00915,0,ring_00915,Baby Monitoring,Normal,0,1
+ring_00329,0,ring_00329,Baby Monitoring,Normal,0,1
+ring_00108,0,ring_00108,Security,Abnormal,1,0
+ring_00128,0,ring_00128,Security,Abnormal,1,0
+ring_00247,0,ring_00247,Security,Abnormal,1,0
+ring_00317,0,ring_00317,Security,Abnormal,1,0
+ring_00917,0,ring_00917,Security,Normal,0,1
+ring_00851,0,ring_00851,Other Category,Normal,0,1
+ring_01019,0,ring_01019,Security,Normal,0,1
+ring_00641,0,ring_00641,Wildlife,Abnormal,1,0
+ring_00668,0,ring_00668,Security,Abnormal,1,0
+ring_00492,0,ring_00492,Security,Abnormal,1,0
+ring_00490,0,ring_00490,Security,Vague Abnormal,1,0
+ring_00829,0,ring_00829,Security,Normal,0,1
+ring_00350,0,ring_00350,Security,Normal,0,1
+ring_00693,0,ring_00693,Security,Normal,0,1
+Wyze_team_00076,0,Wyze_team_00076,Security,Normal,0,1
+ring_00859,0,ring_00859,Security,Abnormal,1,0
+ring_00154,0,ring_00154,Pet Monitoring,Normal,0,1
+ring_00612,0,ring_00612,Security,Normal,0,1
+ring_00552,0,ring_00552,Security,Normal,0,1
+ring_01358,0,ring_01358,Pet Monitoring,Abnormal,1,0
+ring_00509,0,ring_00509,Security,Normal,0,1
+ring_01340,0,ring_01340,Wildlife,Abnormal,1,0
+Wyze_team_00014,0,Wyze_team_00014,Security,Normal,0,1
+ring_00352,0,ring_00352,Wildlife,Vague Abnormal,1,0
+ring_00365,0,ring_00365,Kid Monitoring,Normal,0,1
+ring_00600,0,ring_00600,Security,Normal,0,1
+ring_01058,0,ring_01058,Security,Abnormal,1,0
+ring_01055,0,ring_01055,Security,Normal,0,1
+package_00026,0,package_00026,Security,Normal,0,1
+ring_00390,0,ring_00390,Kid Monitoring,Normal,0,1
+package_00018,0,package_00018,Security,Normal,0,1
+package_00087,0,package_00087,Security,Normal,0,1
+ring_01254,0,ring_01254,Security,Normal,0,1
+ring_00814,0,ring_00814,Wildlife,Abnormal,1,0
+ring_00302,0,ring_00302,Wildlife,Abnormal,1,0
+ring_00347,0,ring_00347,Pet Monitoring,Abnormal,1,0
+ring_00718,0,ring_00718,Wildlife,Abnormal,1,0
+ring_00484,0,ring_00484,Security,Vague Abnormal,1,0
+ring_01447,0,ring_01447,Wildlife,Abnormal,1,0
+ring_01369,0,ring_01369,Wildlife,Abnormal,1,0
+ring_00716,0,ring_00716,Wildlife,Normal,0,1
+ring_00879,0,ring_00879,Security,Abnormal,1,0
+wyze_00004,0,wyze_00004,Wildlife,Abnormal,1,0
+ring_00396,0,ring_00396,Pet Monitoring,Normal,0,1
+package_00086,0,package_00086,Security,Normal,0,1
+ring_00640,0,ring_00640,Kid Monitoring,Normal,0,1
+ring_00660,0,ring_00660,Security,Normal,0,1
+ring_00488,0,ring_00488,Wildlife,Abnormal,1,0
+package_00094,0,package_00094,Security,Normal,0,1
+ring_00651,0,ring_00651,Wildlife,Vague Abnormal,1,0
+ring_01054,0,ring_01054,Wildlife,Abnormal,1,0
+Wyze_team_00039,0,Wyze_team_00039,Pet Monitoring,Normal,0,1
+ring_00461,0,ring_00461,Security,Vague Abnormal,1,0
+ring_00068,0,ring_00068,"{""choices"":[""Security"",""Wildlife""]}",Abnormal,1,0
+ring_01393,0,ring_01393,Security,Vague Abnormal,1,0
+ring_00229,0,ring_00229,Security,Normal,0,1
+ring_00470,0,ring_00470,Security,Abnormal,1,0
+package_00078,0,package_00078,Security,Normal,0,1
+ring_00798,0,ring_00798,Wildlife,Abnormal,1,0
+ring_01269,0,ring_01269,Security,Normal,0,1
+ring_01156,0,ring_01156,Security,Normal,0,1
+ring_00755,0,ring_00755,Security,Abnormal,1,0
+package_00059,0,package_00059,Security,Abnormal,1,0
+Wyze_team_00087,0,Wyze_team_00087,Security,Normal,0,1
+ring_00296,0,ring_00296,Wildlife,Abnormal,1,0
+ring_00712,0,ring_00712,Security,Abnormal,1,0
+package_00013,0,package_00013,Security,Normal,0,1
+ring_00443,0,ring_00443,Wildlife,Abnormal,1,0
+ring_00782,0,ring_00782,Wildlife,Abnormal,1,0
+ring_00540,0,ring_00540,Wildlife,Abnormal,1,0
+ring_00234,0,ring_00234,Wildlife,Abnormal,1,0
+package_00079,0,package_00079,Security,Normal,0,1
+ring_00020,0,ring_00020,Wildlife,Abnormal,1,0
+ring_00265,0,ring_00265,Security,Abnormal,1,0
+ring_00489,0,ring_00489,Security,Normal,0,1
+Wyze_team_00021,0,Wyze_team_00021,Pet Monitoring,Normal,0,1
+ring_00241,0,ring_00241,Security,Normal,0,1
+Wyze_team_00003,0,Wyze_team_00003,Security,Normal,0,1
+ring_00727,0,ring_00727,Security,Normal,0,1
+ring_00749,0,ring_00749,Pet Monitoring,Abnormal,1,0
+ring_00014,0,ring_00014,Wildlife,Abnormal,1,0
+ring_01373,0,ring_01373,Wildlife,Abnormal,1,0
+ring_00833,0,ring_00833,Pet Monitoring,Abnormal,1,0
+wyze_00008,0,wyze_00008,Pet Monitoring,Abnormal,1,0
+Wyze_team_00066,0,Wyze_team_00066,Security,Normal,0,1
+ring_01274,0,ring_01274,Baby Monitoring,Normal,0,1
+ring_00323,0,ring_00323,Pet Monitoring,Abnormal,1,0
+ring_00456,0,ring_00456,Security,Vague Abnormal,1,0
+ring_00554,0,ring_00554,Security,Abnormal,1,0
+ring_00103,0,ring_00103,Wildlife,Abnormal,1,0
+ring_00169,0,ring_00169,Wildlife,Abnormal,1,0
+ring_00860,0,ring_00860,Pet Monitoring,Abnormal,1,0
+ring_00059,0,ring_00059,Wildlife,Abnormal,1,0
+ring_00420,0,ring_00420,Wildlife,Abnormal,1,0
+ring_00603,0,ring_00603,Pet Monitoring,Normal,0,1
+ring_00730,0,ring_00730,Security,Normal,0,1
+ring_00897,0,ring_00897,"{""choices"":[""Security"",""Kid Monitoring""]}",Normal,0,1
+ring_00630,0,ring_00630,Security,Normal,0,1
+ring_00910,0,ring_00910,Security,Normal,0,1
+ring_00238,0,ring_00238,Security,Vague Abnormal,1,0
+ring_01124,0,ring_01124,Security,Normal,0,1
+ring_00645,0,ring_00645,Security,Vague Abnormal,1,0
+package_00028,0,package_00028,Security,Normal,0,1
+ring_00952,0,ring_00952,Baby Monitoring,Abnormal,1,0
+ring_00706,0,ring_00706,Pet Monitoring,Normal,0,1
+ring_00428,0,ring_00428,Wildlife,Normal,0,1
+wyze_00001,0,wyze_00001,Pet Monitoring,Normal,0,1
+ring_00623,0,ring_00623,Baby Monitoring,Normal,0,1
+ring_00918,0,ring_00918,Wildlife,Abnormal,1,0
+ring_00096,0,ring_00096,Wildlife,Normal,0,1
+ring_01452,0,ring_01452,"{""choices"":[""Security"",""Pet Monitoring""]}",Abnormal,1,0
+suppl_00002,0,suppl_00002,Wildlife,Abnormal,1,0
+ring_01080,0,ring_01080,Wildlife,Abnormal,1,0
+ring_00463,0,ring_00463,Security,Normal,0,1
+ring_00773,0,ring_00773,Security,Normal,0,1
+Wyze_team_00019,0,Wyze_team_00019,Security,Normal,0,1
+Wyze_team_00084,0,Wyze_team_00084,Pet Monitoring,Normal,0,1
+ring_01145,0,ring_01145,Security,Normal,0,1
+ring_00876,0,ring_00876,Wildlife,Abnormal,1,0
+ring_00781,0,ring_00781,Security,Vague Abnormal,1,0
+ring_00579,0,ring_00579,Wildlife,Abnormal,1,0
+ring_00127,0,ring_00127,Wildlife,Abnormal,1,0
+ring_00995,0,ring_00995,Wildlife,Abnormal,1,0
+ring_00335,0,ring_00335,Kid Monitoring,Normal,0,1
+ring_00965,0,ring_00965,Security,Normal,0,1
+ring_00599,0,ring_00599,Security,Abnormal,1,0
+suppl_00022,0,suppl_00022,Senior Care,Abnormal,1,0
+ring_01479,0,ring_01479,Pet Monitoring,Abnormal,1,0
+ring_00491,0,ring_00491,Wildlife,Vague Abnormal,1,0
+suppl_00010,0,suppl_00010,Baby Monitoring,Abnormal,1,0
+ring_00295,0,ring_00295,Security,Abnormal,1,0
+Wyze_team_00070,0,Wyze_team_00070,Security,Normal,0,1
+ring_00308,0,ring_00308,Security,Abnormal,1,0
+ring_00459,0,ring_00459,Wildlife,Abnormal,1,0
+ring_01177,0,ring_01177,Security,Abnormal,1,0
+ring_00140,0,ring_00140,Wildlife,Abnormal,1,0
+ring_00760,0,ring_00760,Wildlife,Abnormal,1,0
+ring_00678,0,ring_00678,Security,Normal,0,1
+ring_00179,0,ring_00179,Wildlife,Abnormal,1,0
+ring_00838,0,ring_00838,Security,Abnormal,1,0
+ring_00460,0,ring_00460,"{""choices"":[""Pet Monitoring"",""Kid Monitoring""]}",Normal,0,1
+ring_00948,0,ring_00948,Kid Monitoring,Abnormal,1,0
+ring_00303,0,ring_00303,Pet Monitoring,Normal,0,1
+ring_00893,0,ring_00893,Security,Abnormal,1,0
+Wyze_team_00050,0,Wyze_team_00050,Pet Monitoring,Normal,0,1
+ring_01323,0,ring_01323,Wildlife,Abnormal,1,0
+ring_00331,0,ring_00331,Kid Monitoring,Normal,0,1
+ring_01469,0,ring_01469,Pet Monitoring,Abnormal,1,0
+package_00001,0,package_00001,Security,Normal,0,1
+ring_00676,0,ring_00676,Security,Normal,0,1
+ring_00767,0,ring_00767,Security,Abnormal,1,0
+ring_01014,0,ring_01014,Kid Monitoring,Normal,0,1
+package_00072,0,package_00072,Security,Normal,0,1
+ring_00735,0,ring_00735,Security,Normal,0,1
+ring_00411,0,ring_00411,Wildlife,Abnormal,1,0
+ring_00047,0,ring_00047,Security,Abnormal,1,0
+ring_00652,0,ring_00652,Security,Abnormal,1,0
+ring_00745,0,ring_00745,Security,Normal,0,1
+ring_00642,0,ring_00642,Security,Abnormal,1,0
+ring_00212,0,ring_00212,Pet Monitoring,Normal,0,1
+ring_00203,0,ring_00203,Wildlife,Normal,0,1
+ring_00785,0,ring_00785,Security,Abnormal,1,0
+package_00053,0,package_00053,Security,Normal,0,1
+ring_00523,0,ring_00523,Security,Normal,0,1
+Wyze_team_00044,0,Wyze_team_00044,Security,Normal,0,1
+ring_01357,0,ring_01357,Pet Monitoring,Normal,0,1
+ring_00284,0,ring_00284,Security,Abnormal,1,0
+ring_00403,0,ring_00403,Security,Vague Abnormal,1,0
+ring_00441,0,ring_00441,Pet Monitoring,Abnormal,1,0
+ring_00084,0,ring_00084,Security,Abnormal,1,0
+ring_00564,0,ring_00564,Security,Abnormal,1,0
+ring_01405,0,ring_01405,Wildlife,Abnormal,1,0
+ring_00447,0,ring_00447,Wildlife,Abnormal,1,0
+ring_00450,0,ring_00450,Wildlife,Abnormal,1,0
+ring_00087,0,ring_00087,Pet Monitoring,Abnormal,1,0
+ring_00588,0,ring_00588,Wildlife,Abnormal,1,0
+ring_00079,0,ring_00079,Pet Monitoring,Normal,0,1
+ring_01380,0,ring_01380,Wildlife,Abnormal,1,0
+package_00083,0,package_00083,Security,Normal,0,1
+package_00021,0,package_00021,Security,Normal,0,1
+suppl_00009,0,suppl_00009,Baby Monitoring,Vague Abnormal,1,0
+ring_00672,0,ring_00672,Security,Vague Abnormal,1,0
+package_00042,0,package_00042,Security,Normal,0,1
+ring_00359,0,ring_00359,Wildlife,Vague Abnormal,1,0
+ring_00255,0,ring_00255,Security,Abnormal,1,0
+ring_00979,0,ring_00979,Security,Vague Abnormal,1,0
+ring_00566,0,ring_00566,Security,Normal,0,1
+Wyze_team_00035,0,Wyze_team_00035,Security,Normal,0,1
+ring_00544,0,ring_00544,Security,Abnormal,1,0
+package_00011,0,package_00011,Security,Normal,0,1
+ring_00883,0,ring_00883,Wildlife,Abnormal,1,0
+ring_00553,0,ring_00553,Wildlife,Abnormal,1,0
+ring_00825,0,ring_00825,Wildlife,Abnormal,1,0
+ring_00402,0,ring_00402,Pet Monitoring,Normal,0,1
+ring_00221,0,ring_00221,Security,Abnormal,1,0
+Wyze_team_00059,0,Wyze_team_00059,Security,Normal,0,1
+wyze_00003,0,wyze_00003,Security,Normal,0,1
+ring_00762,0,ring_00762,Security,Abnormal,1,0
+package_00008,0,package_00008,Security,Normal,0,1
+ring_00061,0,ring_00061,"{""choices"":[""Wildlife"",""Pet Monitoring""]}",Abnormal,1,0
+wyze_00031,0,wyze_00031,Pet Monitoring,Normal,0,1
+ring_01487,0,ring_01487,Security,Normal,0,1
+ring_01352,0,ring_01352,Security,Normal,0,1
+ring_00356,0,ring_00356,Wildlife,Abnormal,1,0
+ring_00864,0,ring_00864,Security,Abnormal,1,0
+ring_00784,0,ring_00784,Security,Abnormal,1,0
+suppl_00029,0,suppl_00029,Senior Care,Normal,0,1
+package_00063,0,package_00063,Security,Normal,0,1
+ring_01057,0,ring_01057,Security,Abnormal,1,0
+wyze_00024,0,wyze_00024,Wildlife,Abnormal,1,0
+suppl_00015,0,suppl_00015,Senior Care,Abnormal,1,0
+ring_00758,0,ring_00758,Security,Vague Abnormal,1,0
+wyze_00026,0,wyze_00026,Security,Abnormal,1,0
+ring_00054,0,ring_00054,"{""choices"":[""Security"",""Wildlife""]}",Abnormal,1,0
+ring_00637,0,ring_00637,Security,Abnormal,1,0
+ring_00717,0,ring_00717,Security,Abnormal,1,0
+vague_normal_00002,0,vague_normal_00002,Pet Monitoring,Normal,0,1
+ring_00211,0,ring_00211,Wildlife,Abnormal,1,0
+ring_00517,0,ring_00517,Security,Vague Abnormal,1,0
+ring_00609,0,ring_00609,Security,Abnormal,1,0
+ring_00980,0,ring_00980,Security,Abnormal,1,0
+ring_00046,0,ring_00046,Pet Monitoring,Normal,0,1
+ring_01454,0,ring_01454,Wildlife,Abnormal,1,0
+ring_00809,0,ring_00809,Wildlife,Abnormal,1,0
+ring_00193,0,ring_00193,Security,Abnormal,1,0
+ring_01384,0,ring_01384,Other Category,Vague Abnormal,1,0
+suppl_00003,0,suppl_00003,Security,Normal,0,1
+ring_00394,0,ring_00394,Kid Monitoring,Normal,0,1
+ring_00741,0,ring_00741,Security,Normal,0,1
+package_00074,0,package_00074,Security,Normal,0,1
+package_00024,0,package_00024,Security,Normal,0,1
+Wyze_team_00082,0,Wyze_team_00082,Security,Normal,0,1
+Wyze_team_00024,0,Wyze_team_00024,Security,Normal,0,1
+ring_00512,0,ring_00512,Security,Abnormal,1,0
+ring_00180,0,ring_00180,Security,Normal,0,1
+Wyze_team_00023,0,Wyze_team_00023,Security,Normal,0,1
+ring_00321,0,ring_00321,Security,Normal,0,1
+ring_00659,0,ring_00659,Pet Monitoring,Abnormal,1,0
+ring_00294,0,ring_00294,Wildlife,Abnormal,1,0
+vague_normal_00001,0,vague_normal_00001,Baby Monitoring,Normal,0,1
+ring_00852,0,ring_00852,Security,Abnormal,1,0
+ring_00112,0,ring_00112,Security,Normal,0,1
+Wyze_team_00089,0,Wyze_team_00089,Security,Normal,0,1
+ring_00653,0,ring_00653,Security,Normal,0,1
+ring_01016,0,ring_01016,Wildlife,Abnormal,1,0
+ring_00280,0,ring_00280,Security,Normal,0,1
+ring_00034,0,ring_00034,Pet Monitoring,Normal,0,1
+ring_00264,0,ring_00264,Pet Monitoring,Vague Abnormal,1,0
+ring_01311,0,ring_01311,Pet Monitoring,Normal,0,1
+ring_00970,0,ring_00970,Security,Abnormal,1,0
+ring_01335,0,ring_01335,Kid Monitoring,Normal,0,1
+ring_01119,0,ring_01119,Wildlife,Abnormal,1,0
+ring_00831,0,ring_00831,Security,Abnormal,1,0
+ring_00305,0,ring_00305,Security,Abnormal,1,0
+ring_00225,0,ring_00225,Wildlife,Abnormal,1,0
+wyze_00006,0,wyze_00006,Security,Normal,0,1
+suppl_00016,0,suppl_00016,Senior Care,Vague Abnormal,1,0
+ring_00051,0,ring_00051,Pet Monitoring,Normal,0,1
+ring_00250,0,ring_00250,Wildlife,Abnormal,1,0
+ring_00568,0,ring_00568,Wildlife,Abnormal,1,0
+ring_00682,0,ring_00682,Pet Monitoring,Normal,0,1
+ring_01424,0,ring_01424,Security,Abnormal,1,0
+ring_00504,0,ring_00504,Pet Monitoring,Normal,0,1
+ring_00418,0,ring_00418,Wildlife,Abnormal,1,0
+ring_00075,0,ring_00075,Wildlife,Abnormal,1,0
+ring_00906,0,ring_00906,Pet Monitoring,Normal,0,1
+ring_00774,0,ring_00774,Pet Monitoring,Abnormal,1,0
+ring_00708,0,ring_00708,Pet Monitoring,Normal,0,1
+ring_01366,0,ring_01366,Pet Monitoring,Normal,0,1
+ring_00763,0,ring_00763,Security,Normal,0,1
+ring_00298,0,ring_00298,Wildlife,Abnormal,1,0
+package_00057,0,package_00057,Security,Normal,0,1
+ring_00398,0,ring_00398,Wildlife,Abnormal,1,0
+suppl_00030,0,suppl_00030,Senior Care,Normal,0,1
+Wyze_team_00008,0,Wyze_team_00008,Security,Normal,0,1
+ring_00060,0,ring_00060,Wildlife,Abnormal,1,0
+ring_00038,0,ring_00038,Wildlife,Abnormal,1,0
+wyze_00022,0,wyze_00022,Other Category,Normal,0,1
+ring_00261,0,ring_00261,Wildlife,Abnormal,1,0
+ring_00237,0,ring_00237,Wildlife,Abnormal,1,0
+ring_01401,0,ring_01401,Wildlife,Abnormal,1,0
+wyze_00014,0,wyze_00014,Wildlife,Abnormal,1,0
+ring_00647,0,ring_00647,Security,Abnormal,1,0
+ring_01314,0,ring_01314,Wildlife,Abnormal,1,0
+ring_01406,0,ring_01406,"{""choices"":[""Security"",""Wildlife""]}",Abnormal,1,0
+ring_01480,0,ring_01480,Wildlife,Abnormal,1,0
+ring_00506,0,ring_00506,Security,Vague Abnormal,1,0
+Wyze_team_00015,0,Wyze_team_00015,Security,Normal,0,1
+ring_00153,0,ring_00153,Security,Abnormal,1,0
+ring_00016,0,ring_00016,Security,Abnormal,1,0
+wyze_00037,0,wyze_00037,Wildlife,Abnormal,1,0
+ring_00134,0,ring_00134,Pet Monitoring,Normal,0,1
+ring_00176,0,ring_00176,Pet Monitoring,Vague Abnormal,1,0
+ring_00370,0,ring_00370,Security,Normal,0,1
+ring_00969,0,ring_00969,Security,Abnormal,1,0
+ring_01050,0,ring_01050,Security,Normal,0,1
+ring_01344,0,ring_01344,Security,Normal,0,1
+ring_01252,0,ring_01252,Pet Monitoring,Normal,0,1
+ring_01027,0,ring_01027,Wildlife,Abnormal,1,0
+Wyze_team_00058,0,Wyze_team_00058,Security,Normal,0,1
+ring_01330,0,ring_01330,Security,Normal,0,1
+ring_00899,0,ring_00899,Security,Abnormal,1,0
+ring_00122,0,ring_00122,Baby Monitoring,Normal,0,1
+package_00047,0,package_00047,Security,Normal,0,1
+ring_00015,0,ring_00015,"{""choices"":[""Security"",""Pet Monitoring""]}",Abnormal,1,0
+ring_00056,0,ring_00056,"{""choices"":[""Security"",""Baby Monitoring""]}",Normal,0,1
+ring_00674,0,ring_00674,Pet Monitoring,Normal,0,1
+ring_00828,0,ring_00828,Pet Monitoring,Abnormal,1,0
+ring_00345,0,ring_00345,Security,Abnormal,1,0
+ring_00740,0,ring_00740,Security,Abnormal,1,0
+ring_01066,0,ring_01066,Security,Normal,0,1
+ring_00232,0,ring_00232,Baby Monitoring,Normal,0,1
+ring_00425,0,ring_00425,Wildlife,Abnormal,1,0
+ring_00244,0,ring_00244,Pet Monitoring,Normal,0,1
+ring_00916,0,ring_00916,Wildlife,Abnormal,1,0
+ring_00905,0,ring_00905,Pet Monitoring,Abnormal,1,0
+Wyze_team_00053,0,Wyze_team_00053,Security,Normal,0,1
+ring_00503,0,ring_00503,Security,Normal,0,1
+ring_00037,0,ring_00037,"{""choices"":[""Security"",""Pet Monitoring""]}",Normal,0,1
+ring_00924,0,ring_00924,Security,Abnormal,1,0
+ring_00770,0,ring_00770,"{""choices"":[""Security"",""Wildlife""]}",Abnormal,1,0
+wyze_00025,0,wyze_00025,Security,Abnormal,1,0
+ring_00064,0,ring_00064,Pet Monitoring,Normal,0,1
+ring_00257,0,ring_00257,Wildlife,Abnormal,1,0
+ring_01053,0,ring_01053,Security,Abnormal,1,0
+ring_00870,0,ring_00870,Security,Normal,0,1
+ring_01097,0,ring_01097,Security,Abnormal,1,0
+ring_00638,0,ring_00638,Wildlife,Abnormal,1,0
+ring_00713,0,ring_00713,Security,Normal,0,1
+ring_00679,0,ring_00679,Security,Normal,0,1
+ring_00464,0,ring_00464,Security,Abnormal,1,0
+ring_00287,0,ring_00287,Security,Abnormal,1,0
+ring_00100,0,ring_00100,Wildlife,Abnormal,1,0
+package_00019,0,package_00019,Security,Normal,0,1
+ring_00699,0,ring_00699,Security,Normal,0,1
+ring_00165,0,ring_00165,Pet Monitoring,Abnormal,1,0
+ring_00565,0,ring_00565,Wildlife,Abnormal,1,0
+ring_00151,0,ring_00151,Pet Monitoring,Vague Abnormal,1,0
+ring_00622,0,ring_00622,Pet Monitoring,Normal,0,1
+ring_00361,0,ring_00361,Pet Monitoring,Abnormal,1,0
+ring_00049,0,ring_00049,Wildlife,Abnormal,1,0
+ring_00001,0,ring_00001,Baby Monitoring,Normal,0,1
+ring_00953,0,ring_00953,Security,Abnormal,1,0
+ring_00919,0,ring_00919,Security,Abnormal,1,0
+Wyze_team_00063,0,Wyze_team_00063,Security,Normal,0,1
+ring_00019,0,ring_00019,"{""choices"":[""Wildlife"",""Pet Monitoring""]}",Abnormal,1,0
+Wyze_team_00043,0,Wyze_team_00043,Pet Monitoring,Vague Abnormal,1,0
+ring_01026,0,ring_01026,Wildlife,Abnormal,1,0
+ring_00885,0,ring_00885,Kid Monitoring,Normal,0,1
+ring_00043,0,ring_00043,Security,Normal,0,1
+Wyze_team_00002,0,Wyze_team_00002,Security,Normal,0,1
+ring_00472,0,ring_00472,Wildlife,Abnormal,1,0
+suppl_00020,0,suppl_00020,Senior Care,Abnormal,1,0
+ring_00082,0,ring_00082,Wildlife,Abnormal,1,0
+ring_01255,0,ring_01255,Baby Monitoring,Normal,0,1
+ring_01458,0,ring_01458,Wildlife,Abnormal,1,0
+ring_00364,0,ring_00364,Security,Vague Abnormal,1,0
+ring_00496,0,ring_00496,Wildlife,Abnormal,1,0
+ring_00514,0,ring_00514,Pet Monitoring,Normal,0,1
+ring_01266,0,ring_01266,Pet Monitoring,Normal,0,1
+ring_01295,0,ring_01295,Pet Monitoring,Abnormal,1,0
+ring_00920,0,ring_00920,Kid Monitoring,Normal,0,1
+ring_01461,0,ring_01461,Wildlife,Abnormal,1,0
+ring_00938,0,ring_00938,Pet Monitoring,Abnormal,1,0
+ring_00951,0,ring_00951,Security,Normal,0,1
+ring_00157,0,ring_00157,Wildlife,Abnormal,1,0
+ring_00432,0,ring_00432,Security,Abnormal,1,0
+ring_00923,0,ring_00923,Wildlife,Abnormal,1,0
+ring_00449,0,ring_00449,Security,Normal,0,1
+ring_01371,0,ring_01371,"{""choices"":[""Security"",""Wildlife""]}",Abnormal,1,0
+ring_00474,0,ring_00474,Security,Vague Abnormal,1,0
+ring_01022,0,ring_01022,Security,Abnormal,1,0
+ring_00089,0,ring_00089,Pet Monitoring,Abnormal,1,0
+Wyze_team_00025,0,Wyze_team_00025,Security,Normal,0,1
+ring_00004,0,ring_00004,Wildlife,Abnormal,1,0
+wyze_00032,0,wyze_00032,Security,Normal,0,1
+ring_00436,0,ring_00436,Wildlife,Abnormal,1,0
+ring_00942,0,ring_00942,Pet Monitoring,Abnormal,1,0
+ring_00949,0,ring_00949,"{""choices"":[""Security"",""Wildlife""]}",Abnormal,1,0
+ring_00793,0,ring_00793,Security,Vague Abnormal,1,0
+package_00014,0,package_00014,Security,Normal,0,1
+ring_01449,0,ring_01449,Pet Monitoring,Abnormal,1,0
+ring_01442,0,ring_01442,Wildlife,Abnormal,1,0
+ring_01035,0,ring_01035,Security,Normal,0,1
+ring_00757,0,ring_00757,Wildlife,Abnormal,1,0
+ring_00330,0,ring_00330,Security,Normal,0,1
+ring_00266,0,ring_00266,Wildlife,Abnormal,1,0
+ring_00469,0,ring_00469,Security,Normal,0,1
+package_00069,0,package_00069,Security,Normal,0,1
+ring_00070,0,ring_00070,Pet Monitoring,Abnormal,1,0
+ring_00372,0,ring_00372,"{""choices"":[""Security"",""Wildlife"",""Pet Monitoring""]}",Abnormal,1,0
+ring_00424,0,ring_00424,Kid Monitoring,Normal,0,1
+ring_00834,0,ring_00834,Security,Normal,0,1
+package_00052,0,package_00052,Security,Normal,0,1
+ring_00431,0,ring_00431,Wildlife,Abnormal,1,0
+Wyze_team_00064,0,Wyze_team_00064,Security,Normal,0,1
+ring_00616,0,ring_00616,Kid Monitoring,Vague Abnormal,1,0
+ring_00604,0,ring_00604,Pet Monitoring,Normal,0,1
+ring_00595,0,ring_00595,Security,Normal,0,1
+ring_00222,0,ring_00222,Wildlife,Normal,0,1
+ring_00687,0,ring_00687,Security,Normal,0,1
+ring_00081,0,ring_00081,Pet Monitoring,Normal,0,1
+ring_00465,0,ring_00465,Wildlife,Abnormal,1,0
+ring_00269,0,ring_00269,Security,Abnormal,1,0
+ring_00772,0,ring_00772,Security,Abnormal,1,0
+ring_00571,0,ring_00571,Pet Monitoring,Normal,0,1
+package_00027,0,package_00027,Security,Normal,0,1
+suppl_00011,0,suppl_00011,Baby Monitoring,Abnormal,1,0
+suppl_00021,0,suppl_00021,Senior Care,Abnormal,1,0
+ring_01476,0,ring_01476,Security,Normal,0,1
+ring_00532,0,ring_00532,Wildlife,Abnormal,1,0
+package_00085,0,package_00085,Security,Normal,0,1
+wyze_00012,0,wyze_00012,Pet Monitoring,Normal,0,1
+ring_00759,0,ring_00759,Kid Monitoring,Normal,0,1
+ring_01081,0,ring_01081,Security,Normal,0,1
+package_00048,0,package_00048,Security,Normal,0,1
+ring_00452,0,ring_00452,Security,Abnormal,1,0
+package_00092,0,package_00092,Security,Normal,0,1
+ring_00685,0,ring_00685,Pet Monitoring,Normal,0,1
+suppl_00013,0,suppl_00013,Senior Care,Abnormal,1,0
+ring_01349,0,ring_01349,"{""choices"":[""Wildlife"",""Pet Monitoring""]}",Abnormal,1,0
+Wyze_team_00077,0,Wyze_team_00077,Pet Monitoring,Normal,0,1
+ring_01148,0,ring_01148,Pet Monitoring,Abnormal,1,0
+Wyze_team_00090,0,Wyze_team_00090,Security,Normal,0,1
+suppl_00025,0,suppl_00025,Senior Care,Normal,0,1
+ring_00941,0,ring_00941,Kid Monitoring,Normal,0,1
+ring_00028,0,ring_00028,Kid Monitoring,Normal,0,1
+ring_01267,0,ring_01267,Security,Normal,0,1
+ring_00008,0,ring_00008,Pet Monitoring,Abnormal,1,0
+ring_00541,0,ring_00541,Security,Vague Abnormal,1,0
+ring_00822,0,ring_00822,Wildlife,Abnormal,1,0
+ring_00114,0,ring_00114,Wildlife,Abnormal,1,0
+ring_00621,0,ring_00621,Security,Normal,0,1
+ring_00533,0,ring_00533,Security,Vague Abnormal,1,0
+ring_00271,0,ring_00271,Pet Monitoring,Normal,0,1
+ring_00289,0,ring_00289,Baby Monitoring,Normal,0,1
+ring_00598,0,ring_00598,Wildlife,Vague Abnormal,1,0
+ring_00975,0,ring_00975,Security,Normal,0,1
+ring_00720,0,ring_00720,Security,Normal,0,1
+ring_00340,0,ring_00340,Pet Monitoring,Normal,0,1
+ring_00242,0,ring_00242,Wildlife,Abnormal,1,0
+ring_00073,0,ring_00073,Security,Abnormal,1,0
+ring_00071,0,ring_00071,Baby Monitoring,Normal,0,1
+Wyze_team_00042,0,Wyze_team_00042,Security,Normal,0,1
+suppl_00026,0,suppl_00026,Senior Care,Normal,0,1
+ring_01003,0,ring_01003,Pet Monitoring,Abnormal,1,0
+Wyze_team_00086,0,Wyze_team_00086,Security,Normal,0,1
+vague_normal_00003,0,vague_normal_00003,Pet Monitoring,Vague Abnormal,1,0
+ring_00219,0,ring_00219,Pet Monitoring,Normal,0,1
+ring_00861,0,ring_00861,Wildlife,Abnormal,1,0
+ring_00440,0,ring_00440,Security,Abnormal,1,0
+package_00066,0,package_00066,Security,Normal,0,1
+Wyze_team_00000,0,Wyze_team_00000,Security,Normal,0,1
+package_00038,0,package_00038,Security,Normal,0,1
+Wyze_team_00007,0,Wyze_team_00007,Security,Normal,0,1
+ring_00213,0,ring_00213,Kid Monitoring,Abnormal,1,0
+suppl_00019,0,suppl_00019,Senior Care,Abnormal,1,0
+ring_00764,0,ring_00764,Pet Monitoring,Abnormal,1,0
+ring_00309,0,ring_00309,Pet Monitoring,Normal,0,1
+ring_00281,0,ring_00281,Wildlife,Abnormal,1,0
+ring_00371,0,ring_00371,Kid Monitoring,Abnormal,1,0
+ring_00405,0,ring_00405,Wildlife,Abnormal,1,0
+Wyze_team_00074,0,Wyze_team_00074,Security,Normal,0,1
+ring_00258,0,ring_00258,Security,Vague Abnormal,1,0
+package_00022,0,package_00022,Security,Normal,0,1
+ring_00608,0,ring_00608,Kid Monitoring,Vague Abnormal,1,0
+ring_00027,0,ring_00027,Pet Monitoring,Normal,0,1
+suppl_00006,0,suppl_00006,Baby Monitoring,Vague Abnormal,1,0
+ring_00639,0,ring_00639,Security,Normal,0,1
+ring_00301,0,ring_00301,Wildlife,Abnormal,1,0
+package_00096,0,package_00096,Security,Normal,0,1
+ring_00626,0,ring_00626,Security,Normal,0,1
+ring_00233,0,ring_00233,Pet Monitoring,Normal,0,1
+ring_00563,0,ring_00563,"{""choices"":[""Security"",""Wildlife""]}",Abnormal,1,0
+ring_00167,0,ring_00167,Security,Abnormal,1,0
+ring_00373,0,ring_00373,Kid Monitoring,Abnormal,1,0
+ring_00646,0,ring_00646,Wildlife,Abnormal,1,0
+ring_00009,0,ring_00009,Wildlife,Vague Abnormal,1,0
+package_00091,0,package_00091,Security,Normal,0,1
+ring_00348,0,ring_00348,Wildlife,Vague Abnormal,1,0
+ring_00907,0,ring_00907,Security,Normal,0,1
+ring_00252,0,ring_00252,Other Category,Normal,0,1
+package_00065,0,package_00065,Security,Normal,0,1
+package_00012,0,package_00012,Security,Normal,0,1
+ring_00534,0,ring_00534,Security,Abnormal,1,0
+ring_00797,0,ring_00797,Wildlife,Abnormal,1,0
+suppl_00005,0,suppl_00005,Baby Monitoring,Abnormal,1,0
+ring_00413,0,ring_00413,Wildlife,Abnormal,1,0
+ring_00624,0,ring_00624,Kid Monitoring,Normal,0,1
+package_00080,0,package_00080,Security,Normal,0,1
+ring_00277,0,ring_00277,Pet Monitoring,Normal,0,1
+ring_00585,0,ring_00585,Security,Abnormal,1,0
+ring_00471,0,ring_00471,Security,Normal,0,1
+ring_00800,0,ring_00800,Security,Abnormal,1,0
+ring_00751,0,ring_00751,Security,Abnormal,1,0
+ring_00596,0,ring_00596,Security,Normal,0,1
+ring_00912,0,ring_00912,Wildlife,Abnormal,1,0
+ring_00521,0,ring_00521,Wildlife,Normal,0,1
+Wyze_team_00046,0,Wyze_team_00046,Security,Normal,0,1
+ring_00550,0,ring_00550,Other Category,Abnormal,1,0
+ring_01309,0,ring_01309,Pet Monitoring,Normal,0,1
+ring_00711,0,ring_00711,Security,Normal,0,1
+ring_00493,0,ring_00493,Security,Normal,0,1
+ring_00210,0,ring_00210,Security,Abnormal,1,0
+Wyze_team_00085,0,Wyze_team_00085,Security,Normal,0,1
+ring_00245,0,ring_00245,Pet Monitoring,Normal,0,1
+ring_00293,0,ring_00293,Security,Vague Abnormal,1,0
+ring_00520,0,ring_00520,Security,Abnormal,1,0
+ring_00473,0,ring_00473,Pet Monitoring,Normal,0,1
+ring_00416,0,ring_00416,Wildlife,Abnormal,1,0
+ring_00044,0,ring_00044,Security,Normal,0,1
+package_00050,0,package_00050,Security,Normal,0,1
+ring_00135,0,ring_00135,Security,Normal,0,1
+ring_00161,0,ring_00161,Wildlife,Normal,0,1
+ring_00987,0,ring_00987,Security,Abnormal,1,0
+ring_00342,0,ring_00342,Security,Abnormal,1,0
+ring_00351,0,ring_00351,Baby Monitoring,Normal,0,1
+ring_00575,0,ring_00575,Security,Abnormal,1,0
+package_00095,0,package_00095,Security,Normal,0,1
+package_00076,0,package_00076,Security,Normal,0,1
+ring_00397,0,ring_00397,Pet Monitoring,Abnormal,1,0
+ring_00799,0,ring_00799,Wildlife,Abnormal,1,0
+ring_00662,0,ring_00662,Security,Abnormal,1,0
+ring_00546,0,ring_00546,Security,Normal,0,1
+ring_00739,0,ring_00739,Security,Normal,0,1
+ring_00191,0,ring_00191,Wildlife,Abnormal,1,0
+ring_00737,0,ring_00737,Security,Normal,0,1
+ring_00053,0,ring_00053,Wildlife,Abnormal,1,0
+ring_00836,0,ring_00836,Security,Abnormal,1,0
+package_00070,0,package_00070,Security,Normal,0,1
+ring_00275,0,ring_00275,Security,Vague Abnormal,1,0
+ring_00570,0,ring_00570,Security,Abnormal,1,0
+ring_00426,0,ring_00426,Pet Monitoring,Normal,0,1
+ring_00392,0,ring_00392,Security,Abnormal,1,0
+Wyze_team_00038,0,Wyze_team_00038,Security,Normal,0,1
+ring_00648,0,ring_00648,Security,Normal,0,1
+ring_00196,0,ring_00196,Wildlife,Abnormal,1,0
+ring_00166,0,ring_00166,Pet Monitoring,Vague Abnormal,1,0
+ring_00908,0,ring_00908,Security,Abnormal,1,0
+ring_00731,0,ring_00731,Security,Normal,0,1
+ring_00337,0,ring_00337,Pet Monitoring,Normal,0,1
+ring_00617,0,ring_00617,Security,Normal,0,1
+ring_00412,0,ring_00412,Security,Abnormal,1,0
+ring_00042,0,ring_00042,"{""choices"":[""Security"",""Pet Monitoring""]}",Vague Abnormal,1,0
+ring_00586,0,ring_00586,Wildlife,Abnormal,1,0
+ring_01443,0,ring_01443,Wildlife,Abnormal,1,0
+ring_01413,0,ring_01413,Pet Monitoring,Abnormal,1,0
+package_00097,0,package_00097,Security,Normal,0,1
+ring_00095,0,ring_00095,Pet Monitoring,Normal,0,1
+Wyze_team_00065,0,Wyze_team_00065,Security,Normal,0,1
+ring_00349,0,ring_00349,Pet Monitoring,Normal,0,1
+ring_00029,0,ring_00029,Kid Monitoring,Abnormal,1,0
+ring_00415,0,ring_00415,Wildlife,Abnormal,1,0
+suppl_00031,0,suppl_00031,Senior Care,Normal,0,1
+ring_01439,0,ring_01439,Wildlife,Abnormal,1,0
+ring_00991,0,ring_00991,Security,Abnormal,1,0
+ring_00732,0,ring_00732,Security,Normal,0,1
+package_00073,0,package_00073,Security,Normal,0,1
+wyze_00005,0,wyze_00005,Security,Vague Abnormal,1,0
+Wyze_team_00068,0,Wyze_team_00068,Security,Normal,0,1
+Wyze_team_00088,0,Wyze_team_00088,Security,Normal,0,1
+ring_00892,0,ring_00892,Wildlife,Abnormal,1,0
+ring_00224,0,ring_00224,Pet Monitoring,Abnormal,1,0
+ring_00110,0,ring_00110,Pet Monitoring,Abnormal,1,0
+ring_00733,0,ring_00733,Security,Normal,0,1
+ring_00481,0,ring_00481,Security,Vague Abnormal,1,0
+ring_01091,0,ring_01091,Pet Monitoring,Abnormal,1,0
+ring_00483,0,ring_00483,Security,Abnormal,1,0
+ring_00357,0,ring_00357,Pet Monitoring,Normal,0,1
+ring_00235,0,ring_00235,Pet Monitoring,Abnormal,1,0
+Wyze_team_00061,0,Wyze_team_00061,Security,Normal,0,1
+ring_00091,0,ring_00091,Wildlife,Vague Abnormal,1,0
+ring_00954,0,ring_00954,Kid Monitoring,Abnormal,1,0
+ring_00811,0,ring_00811,Kid Monitoring,Normal,0,1
+ring_00227,0,ring_00227,Security,Abnormal,1,0
+ring_00667,0,ring_00667,Pet Monitoring,Abnormal,1,0
+ring_00142,0,ring_00142,Security,Abnormal,1,0
+ring_00367,0,ring_00367,Wildlife,Abnormal,1,0
+package_00035,0,package_00035,Security,Normal,0,1
+suppl_00027,0,suppl_00027,Senior Care,Normal,0,1
+ring_00929,0,ring_00929,Security,Abnormal,1,0
+Wyze_team_00009,0,Wyze_team_00009,Security,Normal,0,1
+ring_01112,0,ring_01112,Security,Normal,0,1
+ring_00318,0,ring_00318,Wildlife,Abnormal,1,0
+ring_00173,0,ring_00173,Security,Abnormal,1,0
+ring_00921,0,ring_00921,Wildlife,Abnormal,1,0
+ring_00374,0,ring_00374,Wildlife,Abnormal,1,0
+ring_00326,0,ring_00326,Wildlife,Abnormal,1,0
+ring_01430,0,ring_01430,"{""choices"":[""Security"",""Kid Monitoring""]}",Abnormal,1,0
+ring_00683,0,ring_00683,Security,Abnormal,1,0
+ring_01032,0,ring_01032,"{""choices"":[""Security"",""Wildlife""]}",Abnormal,1,0
+ring_00023,0,ring_00023,Security,Vague Abnormal,1,0
+package_00075,0,package_00075,Security,Normal,0,1
+ring_00507,0,ring_00507,Kid Monitoring,Normal,0,1
+ring_00409,0,ring_00409,Wildlife,Abnormal,1,0
+ring_00052,0,ring_00052,Pet Monitoring,Abnormal,1,0
+package_00023,0,package_00023,Security,Normal,0,1
+ring_00239,0,ring_00239,Wildlife,Abnormal,1,0
+ring_01002,0,ring_01002,Wildlife,Abnormal,1,0
+ring_00346,0,ring_00346,Security,Normal,0,1
+ring_00501,0,ring_00501,Security,Normal,0,1
+package_00030,0,package_00030,Security,Normal,0,1
+ring_00560,0,ring_00560,Pet Monitoring,Abnormal,1,0
+ring_00182,0,ring_00182,Wildlife,Abnormal,1,0
+ring_00848,0,ring_00848,Wildlife,Normal,0,1
+ring_00204,0,ring_00204,Security,Normal,0,1
+ring_00547,0,ring_00547,Security,Normal,0,1
+ring_00703,0,ring_00703,Security,Normal,0,1
+ring_00467,0,ring_00467,Wildlife,Abnormal,1,0
+package_00041,0,package_00041,Security,Normal,0,1
+ring_00407,0,ring_00407,Security,Normal,0,1
+ring_00844,0,ring_00844,Security,Abnormal,1,0
