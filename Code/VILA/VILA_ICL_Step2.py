@@ -86,17 +86,17 @@ def calculate_metrics(df):
         tn, fp, fn, tp = cm.ravel()
 
     # Compute metrics safely
-    precision = precision_score(df['True Label'], df['Predicted Label'], zero_division=0)
-    recall = recall_score(df['True Label'], df['Predicted Label'], zero_division=0)
-    f1 = f1_score(df['True Label'], df['Predicted Label'], zero_division=0)
+    precision = round(float(precision_score(df['True Label'], df['Predicted Label'], zero_division=0)), 2)
+    recall = round(float(recall_score(df['True Label'], df['Predicted Label'], zero_division=0)), 2)
+    f1 = round(float(f1_score(df['True Label'], df['Predicted Label'], zero_division=0)), 2)
 
     total_abnormal_videos = df[df['True Label'] == 1].shape[0]
     total_normal_videos = df[df['True Label'] == 0].shape[0]
 
-    accuracy_abnormal = df[df['True Label'] == 1]['Accuracy'].mean() if total_abnormal_videos > 0 else 0.0
-    accuracy_normal = df[df['True Label'] == 0]['Accuracy'].mean() if total_normal_videos > 0 else 0.0
+    accuracy_abnormal = round(float(df[df['True Label'] == 1]['Accuracy'].mean() if total_abnormal_videos > 0 else 0.0), 2)
+    accuracy_normal = round(float(df[df['True Label'] == 0]['Accuracy'].mean() if total_normal_videos > 0 else 0.0), 2)
 
-    overall_accuracy = df['Accuracy'].mean()
+    overall_accuracy = round(float(df['Accuracy'].mean()), 2)
 
     return accuracy_abnormal, accuracy_normal, overall_accuracy, precision, recall, f1, cm
 

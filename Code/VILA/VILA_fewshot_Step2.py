@@ -100,20 +100,20 @@ def calculate_metrics(df):
         tn, fp, fn, tp = cm.ravel()
 
     # Compute metrics safely
-    precision = precision_score(df['True Label'], df['Predicted Label'], zero_division=0)
-    recall = recall_score(df['True Label'], df['Predicted Label'], zero_division=0)
-    f1 = f1_score(df['True Label'], df['Predicted Label'], zero_division=0)
+    precision = round(precision_score(df['True Label'], df['Predicted Label'], zero_division=0), 2)
+    recall = round(recall_score(df['True Label'], df['Predicted Label'], zero_division=0), 2)
+    f1 = round(f1_score(df['True Label'], df['Predicted Label'], zero_division=0), 2)
 
     total_abnormal_videos = df[df['True Label'] == 1].shape[0]
     total_normal_videos = df[df['True Label'] == 0].shape[0]
 
-    accuracy_abnormal = df[df['True Label'] == 1]['Accuracy'].mean() if total_abnormal_videos > 0 else 0.0
-    accuracy_normal = df[df['True Label'] == 0]['Accuracy'].mean() if total_normal_videos > 0 else 0.0
+    accuracy_abnormal = round(float(df[df['True Label'] == 1]['Accuracy'].mean() if total_abnormal_videos > 0 else 0.0), 2)
+    accuracy_normal = round(float(df[df['True Label'] == 0]['Accuracy'].mean() if total_normal_videos > 0 else 0.0),2 )
 
-    overall_accuracy = df['Accuracy'].mean()
+    overall_accuracy = round(float((accuracy_abnormal + accuracy_normal)/2), 2)
 
     return accuracy_abnormal, accuracy_normal, overall_accuracy, precision, recall, f1, cm
-
+    
 
 # summarize vad accuracy for two difficulty levels
 def summarize_anomaly_accuracy(anomalies, ground_truth_df):
@@ -176,10 +176,10 @@ if __name__ == "__main__":
     categories = ["Baby Monitoring", "Wildlife", "Security", "Pet Monitoring", "Senior Care", "Kid Monitoring", "Other Category"]
     Categorical_metrics = summarize_category_accuracy(df_accuracy, categories)
     
-    print("All Videos Metrics (accuracy_abnormal, accuracy_normal, overall_accuracy, precision, recall, f1, cm):", all_metrics)
-    print("Normal and Abnormal Videos Metrics (accuracy_abnormal, accuracy_normal, overall_accuracy, precision, recall, f1, cm):", normal_abnormal_metrics)
+    print("All Videos Metrics (accuracy_abnormal, accuracy_normal, overall_accuracy, precision, recall, f1, cm):\n", all_metrics)
+    print("Normal and Abnormal Videos Metrics (accuracy_abnormal, accuracy_normal, overall_accuracy, precision, recall, f1, cm):\n", normal_abnormal_metrics)
     print("Vague Abnormal Videos Metrics (overall_accuracy):", vague_metrics)
-    print("Categorical Metrics (accuracy_abnormal, accuracy_normal, overall_accuracy, precision, recall, f1, cm):", Categorical_metrics)
+    print("Categorical Metrics (accuracy_abnormal, accuracy_normal, overall_accuracy, precision, recall, f1, cm):\n", Categorical_metrics)
     
     # save results of VAD for major voting
     df_accuracy.to_csv(f'few_accuracy_{model_type}.csv', index=False)
